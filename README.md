@@ -1,3 +1,3 @@
-# Boston_HousePrice_Prediction
+# Boston HousePrice Prediction
 
 Predicting House price prediction in Boston city using MultiVariate Regression.
