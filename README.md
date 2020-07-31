@@ -1,6 +1,6 @@
 ## BOSTON CITY HOUSE PRICE PREDICTION MODEL
 
-Predicting House price prediction in Boston city using Multi-variable Regression.
+                                                     Predicting house prices in the Boston city using multi-variable regression.
 
 
 This project is built under following steps :
