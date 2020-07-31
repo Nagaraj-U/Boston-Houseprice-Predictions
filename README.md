@@ -1,9 +1,9 @@
 ## BOSTON CITY HOUSE PRICE PREDICTION MODEL
 
-                                                     Predicting house prices in the Boston city using multi-variable regression.
+                               Predicting house prices in the Boston city using multi-variable regression.
 
 
-This project is built under following steps :
+#### This project is built under following steps :
 
       1. Gathering data from sklearn module
       2. visualizing dataset using pandas and seaborn modules and understanding correlation between various features
